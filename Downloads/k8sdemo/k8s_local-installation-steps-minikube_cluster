@@ -1,4 +1,4 @@
-Sure, I can provide you with step-by-step instructions for installing Minikube and creating a Kubernetes cluster on Windows 10. Please follow these steps:
+ step-by-step instructions for installing Minikube and creating a Kubernetes cluster on Windows 10. Please follow these steps:
 
 1. **Install Hypervisor (Optional):** Minikube can run on various hypervisors. If you don't have a preferred hypervisor already installed, you can use Hyper-V or VirtualBox. For this example, we'll use VirtualBox.
 
